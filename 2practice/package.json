@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/welcometoforeverr/front#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   }
 }
