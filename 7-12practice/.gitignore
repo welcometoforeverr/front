@@ -1,0 +1,15 @@
+# Общие
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Client
+client/build/
+client/dist/
+client/.env
+
+# Server
+server/uploads/
+server/temp/
+server/logs/
